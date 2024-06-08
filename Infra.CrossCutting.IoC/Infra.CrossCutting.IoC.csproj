@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Integration\Application.Implement.csproj" />
+    <ProjectReference Include="..\Infra.CrossCutting.Identity\Infra.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\Repository.Implement\Repository.Implement.csproj" />
+    <ProjectReference Include="..\Service.Implement\Service.Implement.csproj" />
+  </ItemGroup>
+
+</Project>

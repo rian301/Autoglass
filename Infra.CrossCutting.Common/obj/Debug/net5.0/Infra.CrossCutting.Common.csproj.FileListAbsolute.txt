@@ -1,0 +1,15 @@
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\bin\Debug\net5.0\Infra.CrossCutting.Common.deps.json
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\bin\Debug\net5.0\Infra.CrossCutting.Common.dll
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\bin\Debug\net5.0\Infra.CrossCutting.Common.pdb
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\bin\Debug\net5.0\Domain.Core.dll
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\bin\Debug\net5.0\Domain.Core.pdb
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.csproj.AssemblyReference.cache
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.AssemblyInfoInputs.cache
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.AssemblyInfo.cs
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.csproj.CoreCompileInputs.cache
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.csproj.CopyComplete
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.dll
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\refint\Infra.CrossCutting.Common.dll
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\Infra.CrossCutting.Common.pdb
+C:\Projetos\Autoglass\Infra.CrossCutting.Common\obj\Debug\net5.0\ref\Infra.CrossCutting.Common.dll

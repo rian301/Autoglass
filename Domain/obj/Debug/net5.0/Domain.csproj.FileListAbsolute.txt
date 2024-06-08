@@ -1,0 +1,15 @@
+C:\Projetos\Autoglass\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Projetos\Autoglass\Domain\bin\Debug\net5.0\Domain.dll
+C:\Projetos\Autoglass\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\Autoglass\Domain\bin\Debug\net5.0\Domain.Core.dll
+C:\Projetos\Autoglass\Domain\bin\Debug\net5.0\Domain.Core.pdb
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.dll
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\refint\Domain.dll
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Projetos\Autoglass\Domain\obj\Debug\net5.0\ref\Domain.dll
